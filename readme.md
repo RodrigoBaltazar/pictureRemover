@@ -12,6 +12,8 @@ I have to modify the path name for the folder I want to run the script.
 
 Change the variable retirar name for the last letters I want to delete.
 ```
+
+Results in DoceEsquina repository
 ### Installing
 
 Need python 2 installed
